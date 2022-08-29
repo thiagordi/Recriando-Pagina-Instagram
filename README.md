@@ -1,3 +1,3 @@
-# Recriando Front-End de login do Instagram
+# Recriando Front-End de login
 Utilizando Javascript e CSS5
 
